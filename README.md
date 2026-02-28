@@ -11,6 +11,6 @@ Python | SQL | Power BI | Excel | Tableau.
 ## 🔥 Mission
 To convert data into actionable intelligence that drives smart decisions.
 
-## Connect with me
+### 📫 Connect With Me
 - LinkdIn: www.linkedin.com/in/maha-lakshmi-177144244
 - E-mail: maha1606.tnfu@gmail.com
