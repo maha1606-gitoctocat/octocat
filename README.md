@@ -1,29 +1,16 @@
-# 📊 Hello World! I'm Mahalakshmi
+# 📊 Hello World! I'm Mahalakshmi 
+🚀 Aspiring Data Analyst focused on practical learning and dashboard development.
 
-while(alive){
-    learn();
-    analyze();
-    visualize();
-    improve();
-}
+- 🔍 I specialize in analyzing data & building interactive dashboards
+- 📊 Strong interest in Business & Financial Analytics
+- 🌱 Currently improving advanced SQL & Python skills
 
-## 🧩 My Analytics DNA
-🧠 Logical Thinker  
-📈 Insight Hunter  
-📊 Dashboard Designer  
-💡 Problem Solver  
+### 🛠 Tools & Technologies
+Python | SQL | Power BI | Excel | Tableau.	
 
 ## 🔥 Mission
 To convert data into actionable intelligence that drives smart decisions.
 
-## 🛠 Toolbox
-- Python 🐍
-- SQL 📂
-- Power BI 📊
-- Excel 📈
-- Tableau 🎨
-
-⭐ If you like data-driven projects, let's collaborate!																																																																																																																																																															
 ## Connect with me
 - LinkdIn: www.linkedin.com/in/maha-lakshmi-177144244
 - E-mail: maha1606.tnfu@gmail.com
